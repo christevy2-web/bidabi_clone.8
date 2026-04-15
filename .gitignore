@@ -1,6 +1,6 @@
 # Environnement virtuel
 .venv/
-
+data/raw/images/
 # Cache Python
 __pycache__/
 *.pyc
@@ -8,3 +8,4 @@ __pycache__/
 # Dossiers de données (Gérés par DVC, pas par Git)
 data/raw/
 data/interim/
+
